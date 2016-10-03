@@ -1,11 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "08057fa3a8a5468c9b6dbe926a357eb7",
-    "content-hash": "c659f9b3252dd089027dd2c5bb596db7",
+    "hash": "24d0c17cb814661d4f048de759fb42ed",
     "packages": [
         {
             "name": "johnpbloch/wordpress",
